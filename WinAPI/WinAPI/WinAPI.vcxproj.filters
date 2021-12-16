@@ -36,5 +36,13 @@
     <Image Include="Network.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="arrow2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="light.cur">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
